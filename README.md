@@ -3,8 +3,8 @@ PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE <br>
 Facultad de Ingeniería <br>
 Educación Profesional <br>
 
-**Relator:** Miguel Jorquera, majorquev@gmail.com <br>
-**Ayudante:** Bastián Aballay, bastian.aballayleiva@gmail.com
+**Relator:** Miguel Jorquera Viguera, majorquev@gmail.com <br>
+**Ayudante:** Bastián Aballay Leiva, bastian.aballayleiva@gmail.com
 
 ## Contenidos
 
