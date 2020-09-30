@@ -1,4 +1,4 @@
-# Introduccion  la ciencia de datos con R
+# Introducción  la ciencia de datos con R
 PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE <br>
 Facultad de Ingeniería <br>
 Educación Profesional <br>
