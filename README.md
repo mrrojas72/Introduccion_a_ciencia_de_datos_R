@@ -57,6 +57,6 @@ Se abordarán temas como la manipulación y obtención de datos, visualización 
   * (1 hr) Validación cruzada
 
 ## Evaluaciones
-Taller 1: Lunes 19 de cotubre (50%). Comienzo en ayudantía. <br>
+Taller 1: Lunes 19 de octubre (50%). Comienzo en ayudantía. <br>
 Taller 2: Viernes 30 de octubre (50%). Comienzo en ayudantía.
 
